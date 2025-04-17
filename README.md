@@ -23,10 +23,9 @@ Bug report deduplication is critical for efficient software maintenance, as dupl
    
 2. Install packages:
    pip commands for required packages are already contained in 'preprocessing' file.
---
+---
 ## Results
 All the results are archived in 'result' folder, which includes all experiments and evaluation pictures for different fine-tuning techniques.
---
 ## Acknowledgements
 
 This work was conducted as part of the course project for **SOEN 691 - Advanced Topics in Software Engineering** at **Concordia University**.
