@@ -1,0 +1,53 @@
+learning rate optimization only:
+2e-5:
+
+0.01
+Best Threshold: 0.0606
+Precision: 0.7628
+Recall: 0.7598
+F1-score: 0.7613
+F2-score: 0.7604
+
+0.95
+Best Threshold: 0.0606
+Precision: 0.7658
+Recall: 0.7509
+F1-score: 0.7583
+F2-score: 0.7545
+
+0.95_epoch 4
+Best Threshold: 0.0404
+Precision: 0.7506
+Recall: 0.7678
+F1-score: 0.7591
+F2-score: 0.7643
+Accuracy: 0.7561
+
+1.00
+Best Threshold: 0.0606
+Precision: 0.7669
+Recall: 0.7584
+F1-score: 0.7626
+F2-score: 0.7601
+Accuracy: 0.7637
+
+2.5e-5:
+
+0.90
+Best Threshold: 0.0707
+Precision: 0.7796
+Recall: 0.7454
+F1-score: 0.7621
+F2-score: 0.7520
+Accuracy: 0.7671
+
+0.95:
+Best Threshold: 0.0606
+Precision: 0.7698
+Recall: 0.7571
+F1-score: 0.7634
+F2-score: 0.7596
+Accuracy: 0.7651
+
+
+
