@@ -19,7 +19,7 @@ Bug report deduplication is critical for efficient software maintenance, as dupl
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/LeeELIOT/SBERT-experiments-for-SOEN-691.git]
+   git clone https://github.com/LeeELIOT/SBERT-experiments-for-SOEN-691.git
    
 2. Install packages:
    pip commands for required packages are already contained in 'preprocessing' file.
