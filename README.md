@@ -27,7 +27,7 @@ Bug report deduplication is critical for efficient software maintenance, as dupl
 ## Results
 All the results are archived in 'result' folder, which includes all experiments and evaluation pictures for different fine-tuning techniques.
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 This work was conducted as part of the course project for **SOEN 691 - Advanced Topics in Software Engineering** at **Concordia University**.
 
