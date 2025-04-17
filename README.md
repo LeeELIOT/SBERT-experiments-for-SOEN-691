@@ -1,6 +1,6 @@
 # Replication Package: Applications of LLMs in Duplicate Bug Report Detection
 
-This repository contains the code, datasets, and experimental setups to replicate the results from the paper **"Applications of LLMs in Duplicate Bug Report Detection"** by Hongwu Li and Elieen Fu. The study evaluates the effectiveness of fine-tuned SBERT models for detecting duplicate bug reports and compares them with traditional and deep learning methods.
+This repository contains the code and experimental setups to replicate the results from the paper **"Applications of LLMs in Duplicate Bug Report Detection"** 
 
 ---
 
@@ -23,10 +23,10 @@ Bug report deduplication is critical for efficient software maintenance, as dupl
    
 2. Install packages:
    pip commands for required packages are already contained in 'preprocessing' file.
-
+--
 ## Results
 All the results are archived in 'result' folder, which includes all experiments and evaluation pictures for different fine-tuning techniques.
-
+--
 ## Acknowledgements
 
 This work was conducted as part of the course project for **SOEN 691 - Advanced Topics in Software Engineering** at **Concordia University**.
